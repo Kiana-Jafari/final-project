@@ -28,9 +28,12 @@ sqlite3 FinalDB.db
 .import --csv chicago_crimes_data.csv chicago_crimes_data
 .import --csv chicago_public_schools.csv chicago_public_schools
 .tables
+```
 
 This will create the following tables in your database:
-- cesus_data
+
+```
+- census_data
 - chicago_crimes_data
 - chicago_public_schools
 ```
