@@ -1,4 +1,4 @@
-# Chicago Data Analysis with SQL (Final Project of: IBM: SQL for Data Science)
+# Chicago Data Analysis with SQL (Final Project of: IBM SQL for Data Science)
 
 This project explores and analyzes multiple public datasets related to Chicago, including census data, crime reports, and public school performance. The analysis is performed using **SQL queries on SQLite**, with the goal of uncovering insights and relationships between demographics, crime, and education in the city.
 
